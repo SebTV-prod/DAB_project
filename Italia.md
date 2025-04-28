@@ -1,0 +1,13 @@
+<h1>Lista dei Canali Italiani</h1>
+
+|Logo|Servizio|Video|Audio|DTT|DAB+|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GG-r_UkQ4Hnhu0YNAjBIFLLd_PAuM9Cr9zGc3xOzqcrO8LMYyDrsCiYw3mR5lQDTeX7DphUgOX-iS6ns52MwtMoqi7j64CLTb5crcUPYsCp-a7yvcK95cLSUA48AMn6LucmCnjuUOrBJVtu7dL_Q=w60-h47?key=v85LTXTW4LJW_2wEv2CzGw"/>|[70-80.TV]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EtM2gYUVXgK_RLS2TDb8_XB_Xa6CNEJb1XHeTUOCWsmbHojgeScm_TU7VlnTJqNThlsuTd8c_XULLGDj0dUvBocJApRDW34VpUjmLgTQ-m78FpYHchY6MBwU6OcgAuZmZzPmO9AEpN3OmFWoPp9Q=w60-h47?key=v85LTXTW4LJW_2wEv2CzGw"/>|[GRP]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EmvoqBmpy7MNgqSY31qMuuE3j-BH8vNhkvKpMY2rtUVNd0ynByWLBUuLWg5hortHZ19r4AzxJn91YPfQ3bAjO-G9XdMZXw2o7oOa6aNzpdVR599n_-oHfDwTlML0H_cyknmU2QW6I6ttklPR9X=w60-h47?key=v85LTXTW4LJW_2wEv2CzGw"/>|[Radio 4 You TV]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HNY7QTRYKR_Doe6owvLIlr92XGTqFuAek4T_zU9obLOLrGOyJV2GqKlpOevFPVPqMmVrRa4csvv8zLPjv38FCQU-Bkz2C2wNkSiClau44DF17d2gWZWkkc0jYz3qLWkDg0xlB8meWvGprSSzOHDw=w60-h47?key=v85LTXTW4LJW_2wEv2CzGw"/>|[Radio Birikina]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EYqjHJeRSLX72WsAbgpT-2kJUQN3hUpJnsJScrRkqk2fzWanFzZU9eNSo0zuiFhYIinC9Yk2nNrCWqdVPOmHzYlHGQROALfoWei4qPgnQBLIbfAClK-zU8t_WLmxSzbLbqWXYISNYWZCycLpBofg=w60-h47?key=v85LTXTW4LJW_2wEv2CzGw"/>|[Radio Bruno]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EEYxP5N3l_Sch5_7k9IllMyB7tX1sbRz4JNUw1Etz-E1IG2NgEkJ3yttgvlEbfhmOhLcYkb4yWiGi9wDrst-cG7eH7v7SlVCU6uRa_S75pHQBvIajLXJNz2KWApog4=w60-h47?key=QHidgUTPO8k4o-7-xw0jWg"/>|[Radio Super]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17ETjAMgUFpe4p13nTAq-5L5yuksqPO0DSI7L0O1Tl6tctA1H4sf7LZs6sp_zhCmUDIjQ5f8MHRUC9by9JSwzv6UoYvhpAvIJsxHDKOJmCH7U1AAZf8nttO_zxxm1rluk37txtOpb8M8AAMdZA=w60-h47?key=v85LTXTW4LJW_2wEv2CzGw"/>|[RBE TV]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GCvMCXTQV7ov5H8oALo7DDwIy54dna5BcW7rH1Z5I7B_buz-slkUsUx2LCBcqfDvKQN0l5hohLhtozIDz-BopFscH2iZcpMKHBi31Ztpec-9sLEzn15mUq50d1Joc=w60-h47?key=QHidgUTPO8k4o-7-xw0jWg"/>|[RTR 99]()|[]()|[]()|||
+|<img width="40" src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GV8-cvUtjGdsL5a_wFilSb0O5xi5gZJK_aNkPKSAoNYtESqqw5vrYyUmZL56N4Miw5j8Aw28BQXVhd6YbKYV-piBBwdFaCB8jiKCAw89vIiybBmtOGjHlkBylLxGXaobgcxyBR_YqkCJHYdT4XnQ=w60-h47?key=QHidgUTPO8k4o-7-xw0jWg"/>|[Studiopiù]()|[]()|[]()|||
